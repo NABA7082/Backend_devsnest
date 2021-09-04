@@ -1,0 +1,16 @@
+1)SET name naba
+
+2)GET name
+"naba"
+
+3)KEYS *
+
+4)EXISTS name
+
+5)FLUSHALL
+
+6)ttl name
+
+7)expire name 10
+
+8)setex name naba
