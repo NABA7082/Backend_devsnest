@@ -1,0 +1,2 @@
+EVENT LOOP- handle async nature of javascript.
+JAVASCRIPT-single threaded,non-blocking,asynchronousa and concurrent.
